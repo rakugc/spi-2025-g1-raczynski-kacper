@@ -1,0 +1,9 @@
+kacper   tty7         :0               Wed Oct 15 13:38   still logged in
+kacper   tty7         :0               Tue Oct 14 11:35 - 13:38 (1+02:03)
+kacper   tty7         :0               Tue Oct 14 08:05 - 11:35  (03:30)
+kacper   tty7         :0               Mon Oct 13 13:43 - 08:05  (18:21)
+reboot   system boot  6.13.8-artix1-1  Sat Jul 26 00:36   still running
+kacper   tty7         :0               Mon Oct 13 13:42 - crash (20374+10:54)
+kacper   tty7         :0               Mon Oct 13 12:54 - 13:42  (00:48)
+
+wtmp zaczyna się Mon Oct 13 12:53:55 2025

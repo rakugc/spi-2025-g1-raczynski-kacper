@@ -1,0 +1,233 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0   1024   624 ?        Ss   13:38   0:00 runit
+root         2  0.0  0.0      0     0 ?        S    13:38   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    13:38   0:00 [pool_workqueue_release]
+root         4  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-rcu_gp]
+root         5  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-sync_wq]
+root         6  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-kvfree_rcu_reclaim]
+root         7  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-slub_flushwq]
+root         8  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-netns]
+root        10  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/0:0H-events_highpri]
+root        13  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-mm_percpu_wq]
+root        15  0.0  0.0      0     0 ?        S    13:38   0:00 [ksoftirqd/0]
+root        16  0.0  0.0      0     0 ?        I    13:38   0:01 [rcu_preempt]
+root        17  0.0  0.0      0     0 ?        S    13:38   0:00 [rcub/0]
+root        18  0.0  0.0      0     0 ?        S    13:38   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root        19  0.0  0.0      0     0 ?        S    13:38   0:00 [rcu_exp_gp_kthread_worker]
+root        20  0.0  0.0      0     0 ?        S    13:38   0:00 [migration/0]
+root        21  0.0  0.0      0     0 ?        S    13:38   0:00 [idle_inject/0]
+root        22  0.0  0.0      0     0 ?        S    13:38   0:00 [cpuhp/0]
+root        23  0.0  0.0      0     0 ?        S    13:38   0:00 [cpuhp/1]
+root        24  0.0  0.0      0     0 ?        S    13:38   0:00 [idle_inject/1]
+root        25  0.0  0.0      0     0 ?        S    13:38   0:00 [migration/1]
+root        26  0.0  0.0      0     0 ?        S    13:38   0:00 [ksoftirqd/1]
+root        28  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/1:0H-events_highpri]
+root        29  0.0  0.0      0     0 ?        S    13:38   0:00 [cpuhp/2]
+root        30  0.0  0.0      0     0 ?        S    13:38   0:00 [idle_inject/2]
+root        31  0.0  0.0      0     0 ?        S    13:38   0:00 [migration/2]
+root        32  0.0  0.0      0     0 ?        S    13:38   0:00 [ksoftirqd/2]
+root        34  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/2:0H-events_highpri]
+root        35  0.0  0.0      0     0 ?        S    13:38   0:00 [cpuhp/3]
+root        36  0.0  0.0      0     0 ?        S    13:38   0:00 [idle_inject/3]
+root        37  0.0  0.0      0     0 ?        S    13:38   0:00 [migration/3]
+root        38  0.0  0.0      0     0 ?        S    13:38   0:00 [ksoftirqd/3]
+root        40  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/3:0H-events_highpri]
+root        41  0.0  0.0      0     0 ?        S    13:38   0:00 [kdevtmpfs]
+root        42  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-inet_frag_wq]
+root        43  0.0  0.0      0     0 ?        I    13:38   0:00 [rcu_tasks_kthread]
+root        44  0.0  0.0      0     0 ?        I    13:38   0:00 [rcu_tasks_rude_kthread]
+root        45  0.0  0.0      0     0 ?        I    13:38   0:00 [rcu_tasks_trace_kthread]
+root        46  0.0  0.0      0     0 ?        S    13:38   0:00 [kauditd]
+root        47  0.0  0.0      0     0 ?        S    13:38   0:00 [khungtaskd]
+root        48  0.0  0.0      0     0 ?        S    13:38   0:00 [oom_reaper]
+root        50  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-writeback]
+root        51  0.0  0.0      0     0 ?        S    13:38   0:00 [kcompactd0]
+root        52  0.0  0.0      0     0 ?        SN   13:38   0:00 [ksmd]
+root        53  0.0  0.0      0     0 ?        SN   13:38   0:00 [khugepaged]
+root        54  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-kblockd]
+root        55  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-blkcg_punt_bio]
+root        56  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-kintegrityd]
+root        57  0.0  0.0      0     0 ?        S    13:38   0:01 [irq/9-acpi]
+root        60  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-tpm_dev_wq]
+root        61  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-ata_sff]
+root        62  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-edac-poller]
+root        63  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-devfreq_wq]
+root        64  0.0  0.0      0     0 ?        S    13:38   0:00 [watchdogd]
+root        65  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/2:1H-kblockd]
+root        67  0.0  0.0      0     0 ?        S    13:38   0:00 [kswapd0]
+root        68  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-kthrotld]
+root        69  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-acpi_thermal_pm]
+root        71  0.0  0.0      0     0 ?        S    13:38   0:00 [hwrng]
+root        72  0.0  0.0      0     0 ?        S    13:38   0:00 [scsi_eh_0]
+root        73  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-scsi_tmf_0]
+root        74  0.0  0.0      0     0 ?        S    13:38   0:00 [scsi_eh_1]
+root        75  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-scsi_tmf_1]
+root        76  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-mld]
+root        77  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/1:1H-kblockd]
+root        78  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-ipv6_addrconf]
+root        79  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-kstrp]
+root        83  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-zswap-shrink]
+root        85  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/0:1H-kblockd]
+root       137  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/3:1H-i915_cleanup]
+root       153  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-ktpacpid]
+root       158  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-ttm]
+root       159  0.0  0.0      0     0 ?        S    13:38   0:00 [card1-crtc0]
+root       160  0.0  0.0      0     0 ?        S    13:38   0:00 [card1-crtc1]
+root       161  0.0  0.0      0     0 ?        S    13:38   0:00 [card1-crtc2]
+root       212  0.0  0.0      0     0 ?        S    13:38   0:00 [jbd2/sda2-8]
+root       213  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-ext4-rsv-conversion]
+root       564  0.0  0.0      0     0 ?        I<   13:38   0:00 [kworker/R-cfg80211]
+root       570  0.0  0.0      0     0 ?        S    13:38   0:01 [irq/128-iwlwifi]
+root       989  0.1  0.0   2776  1576 ?        Ss   13:38   0:10 runsvdir -P /run/runit/service log:  supervise: warning: unable to stat control/u: not a directory runsv supervise: fatal: unable to start ./run: file does not exist runsv current: fatal: unable to start ./run: file does not exist runsv supervise: warning: unable to stat control/u: not a directory runsv supervise: fatal: unable to start ./run: file does not exist runsv current: fatal: unable to start ./run: file does not exist 
+root      1003  0.0  0.0   2624  1624 ?        Ss   13:38   0:00 runsv udevd
+root      1004  0.0  0.0   2624  1616 ?        Ss   13:38   0:00 runsv agetty-tty5
+root      1005  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv connmand
+root      1006  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv cupsd
+root      1007  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv metalog
+root      1008  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv acpid
+root      1009  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv dbus
+root      1010  0.1  0.0   2624  1620 ?        Ss   13:38   0:13 runsv supervise
+root      1011  0.0  0.0   2624  1616 ?        Ss   13:38   0:00 runsv tlp
+root      1012  0.0  0.0   2624  1616 ?        Ss   13:38   0:00 runsv agetty-tty4
+root      1013  0.1  0.0   2624  1620 ?        Ss   13:38   0:13 runsv current
+root      1014  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv bluetoothd
+root      1015  0.0  0.0   2624  1616 ?        Ss   13:38   0:00 runsv cronie
+root      1016  0.0  0.0   2624  1616 ?        Ss   13:38   0:00 runsv agetty-tty3
+root      1017  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv agetty-tty2
+root      1018  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv logind
+root      1019  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv agetty-tty6
+root      1020  0.0  0.0   2624  1616 ?        Ss   13:38   0:00 runsv agetty-tty1
+root      1021  0.0  0.0   2624  1620 ?        Ss   13:38   0:00 runsv lightdm
+root      1022  0.0  0.0   8700  2176 tty5     Ss+  13:38   0:00 agetty tty5 38400 linux
+root      1023  0.0  0.1  32928  8588 ?        S    13:38   0:00 udevd
+root      1024  0.0  0.0  19184  7868 ?        S    13:38   0:01 connmand -n
+root      1025  0.0  0.0  15552  6288 ?        S    13:38   0:00 cupsd -f
+root      1026  0.0  0.0   4792  2600 ?        S    13:38   0:00 metalog [MASTER]
+root      1027  0.0  0.0   2772  1460 ?        S    13:38   0:00 svlogd -tt /var/log/dbus
+dbus      1028  0.0  0.0   6708  4656 ?        S    13:38   0:04 dbus-daemon --system --nofork --nopidfile
+root      1029  0.0  0.0   8700  2180 tty3     Ss+  13:38   0:00 agetty tty3 38400 linux
+root      1030  0.0  0.0   8700  2176 tty4     Ss+  13:38   0:00 agetty tty4 38400 linux
+root      1031  0.0  0.0   8700  2180 tty2     Ss+  13:38   0:00 agetty tty2 38400 linux
+root      1032  0.0  0.0   2772  1704 ?        S    13:38   0:00 svlogd -tt /var/log/acpid
+root      1033  0.0  0.0   8700  2184 tty6     Ss+  13:38   0:00 agetty tty6 38400 linux
+root      1035  0.0  0.0   6960  4724 ?        S    13:38   0:00 /usr/lib/elogind/elogind
+root      1038  0.0  0.0   9148  5232 ?        S    13:38   0:00 /usr/lib/bluetooth/bluetoothd -n
+root      1039  0.0  0.0   2608  1420 ?        S    13:38   0:00 tlp
+root      1040  0.0  0.0   8700  2184 tty1     Ss+  13:38   0:00 agetty --noclear tty1 38400 linux
+root      1043  0.0  0.0   2772  1456 ?        S    13:38   0:00 svlogd -tt /var/log/lightdm
+root      1044  0.0  0.0 305884  6960 ?        SLl  13:38   0:00 /usr/bin/lightdm
+root      1045  0.0  0.0   2772  1920 ?        S    13:38   0:02 acpid -f
+root      1046  0.0  0.0   3988  2808 ?        S    13:38   0:00 crond -n
+root      1051  0.0  0.0   4792  1008 ?        S    13:38   0:00 metalog [KERNEL]
+root      1058  0.0  0.0      0     0 ?        S    13:38   0:00 [psimon]
+root      1060  0.0  0.0   8952  4836 ?        S    13:38   0:00 /usr/bin/connman-vpnd -n
+root      1062  0.0  0.1  16260 11136 ?        S    13:38   0:01 /usr/bin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root      1241  0.0  0.0      0     0 ?        S    13:38   0:00 [psimon]
+root      1252  1.0  0.8 555388 68544 tty7     Ssl+ 13:38   1:23 /usr/lib/Xorg :0 -seat seat0 -auth /run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1254  0.0  0.0 304276  6472 ?        Sl   13:38   0:00 /usr/lib/accounts-daemon
+polkitd   1260  0.0  0.1 380780  8852 ?        Sl   13:38   0:00 /usr/lib/polkit-1/polkitd --no-debug
+lightdm   1295  0.0  0.0   4748  1888 ?        S    13:38   0:00 dbus-launch --autolaunch 65f86aca5a24db8b63be62e468ef87a9 --binary-syntax --close-stderr
+lightdm   1296  0.0  0.0   5724  2384 ?        Ss   13:38   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+lightdm   1298  0.0  0.0 378772  6948 ?        Sl   13:38   0:00 /usr/lib/at-spi-bus-launcher
+lightdm   1304  0.0  0.0   5704  3476 ?        S    13:38   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 13 --address=unix:path=/run/user/977/at-spi/bus_0
+root      1387  0.0  0.1 172860 10284 ?        Sl   13:38   0:00 lightdm --session-child 13 20
+lightdm   1389  0.0  0.0 166200  7052 ?        Sl   13:38   0:00 /usr/lib/at-spi2-registryd --use-gnome-session
+kacper    1431  0.0  0.4 824396 34924 ?        Ssl  13:38   0:01 xfce4-session
+kacper    1453  0.0  0.0   4748  1856 ?        S    13:38   0:00 /usr/bin/dbus-launch --sh-syntax --exit-with-session
+kacper    1454  0.0  0.0   5996  2912 ?        Ss   13:38   0:00 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --session
+kacper    1468  0.0  0.1 328396 10452 ?        Sl   13:38   0:00 /usr/lib/gvfsd
+kacper    1476  0.0  0.0 399688  6744 ?        Sl   13:38   0:00 /usr/lib/gvfsd-fuse /run/user/1000/gvfs -f
+kacper    1496  0.0  0.0   9032  1844 ?        Ss   13:38   0:00 /usr/bin/ssh-agent -s
+kacper    1501  0.0  0.0 158084  4536 ?        Ss   13:38   0:00 /usr/bin/gpg-agent --sh --daemon
+kacper    1502  0.4  0.7 1640896 60412 ?       Sl   13:38   0:33 xfwm4
+kacper    1525  0.0  0.3 389144 30796 ?        Sl   13:38   0:00 xfsettingsd
+kacper    1530  0.0  0.4 1079492 38712 ?       S<l  13:38   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1532  0.0  0.0  19552  2408 ?        SNl  13:38   0:00 /usr/lib/rtkit-daemon
+kacper    1544  0.0  0.0 163904  5564 ?        Sl   13:38   0:00 /usr/lib/dconf-service
+kacper    1548  0.0  0.5 1173944 42736 ?       Sl   13:38   0:05 xfce4-panel
+kacper    1559  0.0  0.3 490928 29536 ?        Sl   13:38   0:00 Thunar --daemon
+kacper    1567  0.0  0.5 1227720 39980 ?       Sl   13:38   0:00 /usr/lib/xfce4/panel/wrapper-2.0 /usr/lib/xfce4/panel/plugins/libpulseaudio-plugin.so 4 25165835 pulseaudio Wtyczka PulseAudio Regulacja głośności dźwięku systemu PulseAudio
+kacper    1568  0.0  0.3 416928 27800 ?        Sl   13:38   0:00 /usr/lib/xfce4/panel/wrapper-2.0 /usr/lib/xfce4/panel/plugins/libsystray.so 2 25165836 systray Wtyczka zasobnika stanu Zapewnia elementy powiadamiające o stanie (wskaźniki aplikacji) i starsze elementy zasobnika systemowego
+kacper    1570  0.0  0.4 958516 39624 ?        Sl   13:38   0:06 /usr/lib/xfce4/panel/wrapper-2.0 /usr/lib/xfce4/panel/plugins/libxfce4powermanager.so 1 25165837 power-manager-plugin Wtyczka menedżera zasilania Wyświetla poziom naładowania urządzeń i steruje jasnością ekranu
+kacper    1571  0.0  0.4 1097300 36204 ?       Sl   13:38   0:00 /usr/lib/xfce4/panel/wrapper-2.0 /usr/lib/xfce4/panel/plugins/libnotification-plugin.so 9 25165838 notification-plugin Wtyczka powiadomień Wtyczka powiadomień dla panelu Xfce
+root      1572  0.0  0.0      0     0 ?        I    13:38   0:00 [kworker/1:4-i915-unordered]
+kacper    1575  0.0  0.5 1099940 43652 ?       Sl   13:38   0:02 xfdesktop
+kacper    1577  0.0  0.0 247992  7672 ?        Sl   13:38   0:00 /usr/lib/pulse/gsettings-helper
+root      1597  0.0  0.1 314028  9424 ?        Sl   13:38   0:06 /usr/lib/upowerd
+kacper    1615  0.0  0.4 1037976 37800 ?       Sl   13:38   0:00 /usr/lib/xfce4/notifyd/xfce4-notifyd
+kacper    1659  0.0  0.0 170260  6244 ?        Sl   13:38   0:00 /usr/lib/gvfsd-metadata
+kacper    1915  0.0  0.5 1171216 40512 ?       Sl   13:38   0:04 connman-gtk
+kacper    1917  0.0  0.3 415668 26896 ?        Sl   13:38   0:00 xfce4-power-manager
+kacper    1929  0.0  0.3 276336 25896 ?        Sl   13:38   0:00 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+root      1972  0.0  0.0      0     0 ?        I    15:31   0:00 [kworker/3:1-events]
+kacper    2123  0.0  0.0 378776  6928 ?        Sl   13:38   0:00 /usr/lib/at-spi-bus-launcher
+kacper    2129  0.0  0.0   5708  3516 ?        S    13:38   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 13 --address=unix:path=/run/user/1000/at-spi/bus_0
+kacper    2153  0.0  0.0 166204  7060 ?        Sl   13:38   0:00 /usr/lib/at-spi2-registryd --use-gnome-session
+kacper    2205  3.9  6.2 11541140 499176 ?     Sl   13:38   5:12 /usr/lib/waterfox/waterfox
+kacper    2318  0.0  0.6 227472 51840 ?        Sl   13:38   0:00 /usr/lib/waterfox/waterfox -contentproc -parentBuildID 20250911113159 -prefsHandle 0:37405 -prefMapHandle 1:276401 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {8e82dfe0-8337-4a25-a704-869b39fbdbf0} -parentPid 2205 -appDir /usr/lib/waterfox/browser 1 socket
+kacper    2332  0.0  1.7 2482484 137264 ?      Sl   13:38   0:01 /usr/lib/waterfox/waterfox -contentproc -isForBrowser -prefsHandle 0:37467 -prefMapHandle 1:276401 -jsInitHandle 2:242716 -parentBuildID 20250911113159 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {c13c2a72-415c-4b63-aa39-43f6d34c6bc5} -parentPid 2205 -greomni /usr/lib/waterfox/omni.ja -appomni /usr/lib/waterfox/browser/omni.ja -appDir /usr/lib/waterfox/browser 2 tab
+kacper    2340  0.0  0.6 245488 49640 ?        Sl   13:38   0:00 /usr/lib/waterfox/waterfox -contentproc -parentBuildID 20250911113159 -prefsHandle 0:37467 -prefMapHandle 1:276401 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {54f2a7cc-5553-409e-a0bd-600d90791802} -parentPid 2205 -appDir /usr/lib/waterfox/browser 3 rdd
+kacper    2416  0.3  2.3 19640836 191664 ?     Sl   13:38   0:26 /usr/lib/waterfox/waterfox -contentproc -isForBrowser -prefsHandle 0:44738 -prefMapHandle 1:276401 -jsInitHandle 2:242716 -parentBuildID 20250911113159 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {beecf6e6-b77c-49fc-92d8-cd61bb3e8ceb} -parentPid 2205 -greomni /usr/lib/waterfox/omni.ja -appomni /usr/lib/waterfox/browser/omni.ja -appDir /usr/lib/waterfox/browser 5 tab
+kacper    2446  0.0  0.6 246772 52420 ?        Sl   13:38   0:00 /usr/lib/waterfox/waterfox -contentproc -parentBuildID 20250911113159 -sandboxingKind 0 -prefsHandle 0:44939 -prefMapHandle 1:276401 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {6ed57afc-20e2-4447-8d83-5f4a7e1f1aa5} -parentPid 2205 -appDir /usr/lib/waterfox/browser 6 utility
+kacper    2503  1.1  4.0 2807564 323924 ?      Sl   13:39   1:29 /usr/lib/waterfox/waterfox -contentproc -isForBrowser -prefsHandle 0:58629 -prefMapHandle 1:276401 -jsInitHandle 2:242716 -parentBuildID 20250911113159 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {2192dad6-8e49-4fb3-91bb-1adfd9436f2a} -parentPid 2205 -greomni /usr/lib/waterfox/omni.ja -appomni /usr/lib/waterfox/browser/omni.ja -appDir /usr/lib/waterfox/browser 9 tab
+root      2621  0.0  0.0      0     0 ?        I    15:33   0:00 [kworker/0:0-events]
+kacper    2763  0.3  0.6 1080704 50584 ?       Sl   13:40   0:29 /usr/bin/xfce4-terminal
+kacper    2818  0.1  0.8 237152 64012 pts/0    Ssl  13:40   0:15 -fish
+root      4280  0.0  0.0      0     0 ?        I    13:44   0:00 [kworker/3:0-i915-unordered]
+root      4369  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/u17:2-rb_allocator]
+root      4678  0.0  0.0      0     0 ?        I    15:42   0:00 [kworker/u16:1-events_unbound]
+kacper    6663  300  0.0  10948  7616 pts/0    R+   15:52   0:00 ps
+kacper    6664  200  0.0  10948  7700 pts/0    R+   15:52   0:00 ps -u kacper
+kacper    6665  200  0.0  11028  7868 pts/0    R+   15:52   0:00 ps aux
+root      9446  0.0  0.0      0     0 ?        I    14:08   0:00 [kworker/u16:0-events_unbound]
+root     15608  0.0  0.0      0     0 ?        I    14:41   0:00 [kworker/2:1-events]
+root     16531  0.0  0.0      0     0 ?        I    14:48   0:00 [kworker/u16:2-events_unbound]
+root     17403  0.0  0.0      0     0 ?        I    14:55   0:00 [kworker/2:2-i915-unordered]
+root     17484  0.0  0.0      0     0 ?        I    14:55   0:01 [kworker/0:2-i915-unordered]
+kacper   17672  0.0  0.4 617604 38964 ?        Sl   14:57   0:00 /usr/bin/xfce4-screensaver
+root     17767  0.0  0.0      0     0 ?        S    15:19   0:00 [irq/126-mei_me]
+root     18031  0.0  0.0      0     0 ?        I    15:19   0:00 [kworker/1:1-events]
+root     18154  0.1  0.0      0     0 ?        I<   15:19   0:02 [kworker/u17:1-i915_flip]
+  PID TTY          TIME CMD
+ 2818 pts/0    00:00:15 fish
+ 6663 pts/0    00:00:00 ps
+ 6664 pts/0    00:00:00 ps
+  PID TTY          TIME CMD
+ 1431 ?        00:00:01 xfce4-session
+ 1453 ?        00:00:00 dbus-launch
+ 1454 ?        00:00:00 dbus-daemon
+ 1468 ?        00:00:00 gvfsd
+ 1476 ?        00:00:00 gvfsd-fuse
+ 1496 ?        00:00:00 ssh-agent
+ 1501 ?        00:00:00 gpg-agent
+ 1502 ?        00:00:33 xfwm4
+ 1525 ?        00:00:00 xfsettingsd
+ 1530 ?        00:00:00 pulseaudio
+ 1544 ?        00:00:00 dconf-service
+ 1548 ?        00:00:05 xfce4-panel
+ 1559 ?        00:00:00 Thunar
+ 1567 ?        00:00:00 wrapper-2.0
+ 1568 ?        00:00:00 wrapper-2.0
+ 1570 ?        00:00:06 wrapper-2.0
+ 1571 ?        00:00:00 wrapper-2.0
+ 1575 ?        00:00:02 xfdesktop
+ 1577 ?        00:00:00 gsettings-helpe
+ 1615 ?        00:00:00 xfce4-notifyd
+ 1659 ?        00:00:00 gvfsd-metadata
+ 1915 ?        00:00:04 connman-gtk
+ 1917 ?        00:00:00 xfce4-power-man
+ 1929 ?        00:00:00 polkit-gnome-au
+ 2123 ?        00:00:00 at-spi-bus-laun
+ 2129 ?        00:00:00 dbus-daemon
+ 2153 ?        00:00:00 at-spi2-registr
+ 2205 ?        00:05:12 waterfox
+ 2318 ?        00:00:00 Socket Process
+ 2332 ?        00:00:01 Privileged Cont
+ 2340 ?        00:00:00 RDD Process
+ 2416 ?        00:00:26 WebExtensions
+ 2446 ?        00:00:00 Utility Process
+ 2503 ?        00:01:29 Isolated Web Co
+ 2763 ?        00:00:29 xfce4-terminal
+ 2818 pts/0    00:00:15 fish
+ 6664 pts/0    00:00:00 ps
+17672 ?        00:00:00 xfce4-screensav

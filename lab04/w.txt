@@ -1,0 +1,3 @@
+ 15:50:17 up  2:12,  1 user,  load average: 0,01, 0,10, 0,21
+UŻYTK.  TTY       ZAL.OD   BEZCZ. JCPU   PCPU  CO
+kacper   tty7      13:38   28:45   1:22   1.92s xfce4-session
