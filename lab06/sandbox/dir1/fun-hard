@@ -1,0 +1,25 @@
+root:x:0:0::/root:/usr/bin/bash
+alpm:x:982:982:Arch Linux Package Management:/:/usr/bin/nologin
+bin:x:1:1::/:/usr/bin/nologin
+daemon:x:2:2::/:/usr/bin/nologin
+mail:x:8:12::/var/spool/mail:/usr/bin/nologin
+ftp:x:14:11::/srv/ftp:/usr/bin/nologin
+http:x:33:33::/srv/http:/usr/bin/nologin
+avahi:x:981:981:Avahi mDNS/DNS-SD daemon:/:/usr/bin/nologin
+nobody:x:65534:65534:Kernel Overflow User:/:/usr/bin/nologin
+colord:x:980:980:Color management daemon:/var/lib/colord:/usr/bin/nologin
+cups:x:209:209:cups helper user:/:/usr/bin/nologin
+dbus:x:81:81:System Message Bus:/:/usr/bin/nologin
+dhcpcd:x:979:979:dhcpcd privilege separation:/:/usr/bin/nologin
+_talkd:x:978:978:User for legacy talkd server:/:/usr/bin/nologin
+lightdm:x:977:977:Light Display Manager:/var/lib/lightdm:/usr/bin/nologin
+nbd:x:976:976:Network Block Device:/var/empty:/usr/bin/nologin
+ntp:x:87:87:Network Time Protocol:/var/lib/ntp:/usr/bin/nologin
+polkitd:x:102:102:User for polkitd:/:/usr/bin/nologin
+rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/usr/bin/nologin
+rpcuser:x:34:34:RPC Service User:/var/lib/nfs:/usr/bin/nologin
+rtkit:x:133:133:RealtimeKit:/proc:/usr/bin/nologin
+uuidd:x:975:975:UUID generator helper daemon:/var/lib/libuuid:/usr/bin/nologin
+kacper:x:1000:1000:Kacper:/home/kacper:/usr/bin/fish
+git:x:974:974:git daemon user:/:/usr/bin/git-shell
+flatpak:x:971:971:Flatpak system helper:/:/usr/bin/nologin
