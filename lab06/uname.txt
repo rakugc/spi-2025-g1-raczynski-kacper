@@ -1,0 +1,8 @@
+uname (GNU coreutils) 9.8
+Copyright (C) 2025 Free Software Foundation, Inc.
+Licencja GPLv3+: GNU GPL wersja 3 lub późniejsza:
+<https://gnu.org/licenses/gpl.html>.
+To jest oprogramowanie wolnodostępne: można je modyfikować i rozpowszechniać.
+Nie ma ŻADNEJ GWARANCJI w zakresie dopuszczalnym przez prawo.
+
+Autor: David MacKenzie.
