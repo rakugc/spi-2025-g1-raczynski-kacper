@@ -1,0 +1,3 @@
+               razem       użyte       wolne    dzielone   buf/cache    dostępne
+Pamięć:        7,6Gi       1,8Gi       5,1Gi        95Mi       1,0Gi       5,8Gi
+Wymiana:          0B          0B          0B
