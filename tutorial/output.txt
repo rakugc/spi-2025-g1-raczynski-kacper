@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:02 dir
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:02 dir 1
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:01 dir1
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:05 dir 2
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:01 dir2
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:05 dir 3
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:01 dir3
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:05 dir 4
+drwxr-xr-x 3 kacper kacper 4096 Nov  4 17:01 dir4
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:05 dir 5
+drwxr-xr-x 3 kacper kacper 4096 Nov  4 17:06 dir 6
+drwxr-xr-x 2 kacper kacper 4096 Nov  4 17:02 other
+-rw-r--r-- 1 kacper kacper    0 Nov  4 17:07 output.txt
