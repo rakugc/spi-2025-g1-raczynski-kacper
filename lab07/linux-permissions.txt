@@ -1,0 +1,59 @@
+**Answer 1:** Yes, the user has the read and write permissions.
+
+**Answer 2:** No! Bob belongs to the “others” category, which doesn’t have the write permission on the folder.
+
+**Answer 3:** No. Bob belongs to the “others” category, which doesn’t have the execute permission on the folder.
+
+**Answer 4:** Yes! The write permission is set for the user.
+
+**Answer 5:** 81
+
+**Answer 6:** 27
+
+**Answer 7:** 1100
+
+**Answer 8:** r w x r w x r w x — all permissions for all users.
+
+**Answer 9:** r – – r – – r – – — read only for all users.
+
+**Answer 10:** r w – r – – – – x — read-write owner, read group, execute others.
+
+**Answer 11:** umask
+
+**Answer 12:** The mask defines default permissions for newly created files and directories.
+
+**Answer 13:** r w – r – – r – –
+
+**Answer 14:** r w x r – x r – x
+
+**Answer 15:** The user can go through the directory for navigation.
+
+**Answer 16:** The user can create and delete entries in the directory.
+
+**Answer 17:** The sticky bit.
+
+**Answer 18:** *(Not provided in text — likely depends on ownership.)*
+
+**Answer 19:** No. Sticky bit is “T”, meaning execute is not set, so access denied.
+
+**Answer 20:** chown
+
+**Answer 21:** chgrp
+
+**Answer 22:** -R
+
+**Answer 23:** -c
+
+**Answer 24:** Executes command as the owner of the file.
+
+**Answer 25:** passwd
+
+**Answer 26:** chmod u+s file or chmod 4777 file
+
+**Answer 27:** Executes command as the group owning the file.
+
+**Answer 28:** chmod g+s file or chmod 2777 file
+
+**Answer 29:** No. Use cp -p to preserve permissions.
+
+**Answer 30:** Lowercase “t” = sticky bit set; Uppercase “T” = sticky bit set but execute not set.

@@ -1,0 +1,75 @@
+
+alias – tworzy skróty do komend
+apt – nowoczesna wersja apt-get do zarządzania pakietami
+apt-get – zarządza pakietami w systemach Debian/Ubuntu
+cal – pokazuje kalendarz
+cat – wyświetla zawartość pliku w terminalu
+cd – zmienia bieżący katalog roboczy
+chgrp – zmienia grupę właściciela pliku lub katalogu
+chmod – zmienia uprawnienia plików i katalogów
+chown – zmienia właściciela pliku lub katalogu
+clear – czyści ekran terminala
+cp – kopiuje pliki lub katalogi
+curl – pobiera dane z adresów URL
+date – wyświetla lub ustawia datę i czas
+df -Th – pokazuje typy systemów plików i ich użycie
+df -h – pokazuje użycie dysku w czytelnej formie
+df – pokazuje ilość wolnego miejsca na dysku
+diff – porównuje zawartość dwóch plików
+dmesg – pokazuje komunikaty jądra systemowego
+dnf – nowszy menedżer pakietów dla systemów RedHat/Fedora
+du – pokazuje rozmiar plików i katalogów
+echo – wyświetla tekst lub zmienne w terminalu
+export – ustawia zmienne środowiskowe
+find – wyszukuje pliki i katalogi według kryteriów
+free – pokazuje ilość wolnej i zajętej pamięci RAM
+grep – wyszukuje wzorce tekstowe w plikach
+groupadd – tworzy nową grupę użytkowników
+head – pokazuje pierwsze linie pliku
+history – pokazuje historię wpisanych komend
+htop – interaktywne monitorowanie procesów
+ifconfig – wyświetla i konfiguruje ustawienia sieciowe
+ip – pokazuje i konfiguruje interfejsy sieciowe
+journalctl – wyświetla logi systemowe (systemd)
+kill – kończy działanie procesu
+less – przegląda plik strona po stronie
+locate – szybko znajduje pliki według nazwy
+ls – wyświetla zawartość katalogu
+lsof – pokazuje otwarte pliki i procesy, które ich używają
+man – pokazuje stronę pomocy dla danej komendy
+mkdir – tworzy nowy katalog
+mount – montuje system plików
+mv – przenosi lub zmienia nazwę pliku lub katalogu
+nano – prosty edytor tekstu w terminalu
+netstat – pokazuje połączenia sieciowe i porty
+passwd – zmienia hasło użytkownika
+ping – sprawdza połączenie sieciowe z innym hostem
+ps aux – pokazuje wszystkie uruchomione procesy
+ps – wyświetla listę aktualnie uruchomionych procesów
+pwd – pokazuje ścieżkę do bieżącego katalogu
+reboot – restartuje system
+rm – usuwa pliki lub katalogi
+rmdir – usuwa pusty katalog
+scp – kopiuje pliki między komputerami przez SSH
+shutdown – wyłącza komputer
+ssh – łączy się z innym komputerem przez sieć
+sudo – uruchamia komendy z uprawnieniami administratora
+tail -f – śledzi w czasie rzeczywistym logi lub pliki tekstowe
+tail – pokazuje ostatnie linie pliku
+tar – pakuje i rozpakowuje archiwa tar
+top – pokazuje działające procesy w czasie rzeczywistym
+touch – tworzy pusty plik lub aktualizuje jego czas modyfikacji
+traceroute – śledzi trasę pakietów sieciowych
+umount – odmontowuje system plików
+uname – pokazuje informacje o systemie operacyjnym
+unzip – rozpakowuje pliki ZIP
+uptime – pokazuje czas działania systemu
+useradd – dodaje nowego użytkownika
+userdel – usuwa użytkownika
+vi – klasyczna wersja edytora tekstu
+vim – zaawansowany edytor tekstu w terminalu
+wget – pobiera pliki z internetu
+who – pokazuje, kto jest zalogowany
+whoami – wyświetla aktualnego użytkownika
+yum – zarządza pakietami w systemach RedHat/Fedora
+zip – kompresuje pliki do formatu ZIP
