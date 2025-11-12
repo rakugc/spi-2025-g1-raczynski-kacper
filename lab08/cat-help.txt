@@ -1,0 +1,32 @@
+Składnia: cat [OPCJA]... [PLIK]...
+PLIK lub połączenie PLIKÓW wysyłane na standardowe wyjście.
+
+Jeżeli nie został podany PLIK albo podany jest jako -, czytane jest
+standardowe wejście.
+
+  -A, --show-all           równoważne -vET
+  -b, --number-nonblank    numerowanie niepustych linii na wyjściu,
+                             wyłącza -n
+  -e                       równoważne -vE
+  -E, --show-ends          wypisanie $ na końcu każdej linii
+  -n, --number             numerowanie wszystkich linii na wyjściu
+  -s, --squeeze-blank      nigdy więcej niż jedna pusta linia
+  -t                       równoważne -vT
+  -T, --show-tabs          wypisanie znaków tabulacji jako ^I
+  -u                       (ignorowane)
+  -v, --show-nonprinting   użycie zapisu ^ i M-, oprócz LFD i TAB
+      --help        wyświetlenie tego opisu i zakończenie
+      --version     wyświetlenie informacji o wersji i zakończenie
+
+Przykłady:
+  cat f - g  Skopiowanie zawartości f na standardowe wyjście, potem
+              zawartości g.
+  cat        Skopiowanie standardowego wejścia na standardowe wyjście.
+
+Prosimy zgłaszać błędy na adres <bug-coreutils@gnu.org>.
+Błędy w tłumaczeniu prosimy zgłaszać na adres <translation-team-pl@lists.sourceforge.net>.
+Strona domowa pakietu GNU coreutils: <https://www.gnu.org/software/coreutils/>
+Ogólna pomoc przy używaniu oprogramowania GNU: <https://www.gnu.org/gethelp/>.
+O błędach tłumaczenia poinformuj przez https://translationproject.org/team/pl.html
+Pełna dokumentacja: https://www.gnu.org/software/coreutils/cat
+albo dostępna lokalnie przez: info '(coreutils) cat invocation'
