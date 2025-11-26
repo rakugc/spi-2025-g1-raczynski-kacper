@@ -1,0 +1,17 @@
+#Tabela 1
+-rw-r--r-- 1 kacper kacper 11184 11-26 16:00 foo.txt
+-rw-r--r-- 1 kacper kacper 2361 11-26 16:00 foo.txt.gz
+-rw-r--r-- 1 kacper kacper 11184 11-26 16:00 foo.txt
+___________________________
+#Tabela 2
+-rw-r--r-- 1 kacper kacper 11184 11-26 16:00 foo.txt
+-rw-r--r-- 1 kacper kacper 2361 11-26 16:00 foo.txt.gz
+-rw-r--r-- 1 kacper kacper 11184 11-26 16:00 foo.txt
+___________________________
+#Tabela 3
+-rw-r--r-- 1 kacper kacper 22368 11-26 16:00 foo.txt
+-rw-r--r-- 1 kacper kacper 2280 11-26 16:00 foo.txt.xz
+-rw-r--r-- 1 kacper kacper 22368 11-26 16:00 foo.txt
+___________________________
+#Tabela 4
+___________________________
