@@ -1,0 +1,12 @@
+sed -e 's/cos/cosinnego' mojplik.txt
+sed -e 's/cos/cosinnego/g' mojplik.txt
+sed -e '1,10s/zaczarowanie/zablokowanie/g' mojplik2.txt
+sed -e '/^$/,/^END/s/wzgórza/góry/g' mojplik3.txt
+sed -e 's:/usr/local:/usr:g' mojalista.txt
+sed -e 's/<.*>//g' mojplik.html
+sed -e 's/<[^>]*>//g' mojplik.html
+sed -e 's/.*/ralph powiedział: &/' oryginalnawiadomosc.txt
+sed -e 's/\(.*\) \(.*\) \(.*)/Victor \1-\2 Von \3/' mojplik.txt
+sed -n -e '=;p' mojplik.txt
+sed -n -e '=' -e 'p' mojplik.txt
+sed -n -f mojekomendy.sed mojplik.txt

@@ -1,0 +1,8 @@
+sed -e 'd' /etc/services
+sed -e 'ld' /etc/services | more
+sed -e '1,10d' /etc/services | more
+sed -e '/^#/d' /etc/services | more
+sed -e '/regexp/d' /a/b/c/d.file | more 
+sed -n -e '/regexp/p' /a/b/c/d.file | more
+sed -n -e '/POCZATEK/,/KONIEC/p' /moj/plik | more
+sed -n -e '/main[[:space:]]*(/,/^}/p' zrodlo.c | more

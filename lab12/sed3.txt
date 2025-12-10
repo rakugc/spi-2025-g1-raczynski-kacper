@@ -1,0 +1,3 @@
+sed -e 's/$/\r/' myunix.txt > mydos.txt
+sed -e 's/.$//' mydos.txt > myunix.txt
+sed -e '1!G;h;d; forward.txt > backward.txt
