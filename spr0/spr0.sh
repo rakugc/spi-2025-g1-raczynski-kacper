@@ -39,11 +39,11 @@ mkdir z16
 cp z15/zima z16 | cp z15/wiosna z16
 rmdir -p z16/zima
 
-ls -D -T /usr/share/zoneinfo >z17.txt
+tree -d /usr/share/zoneinfo >z17.txt
+
+find /usr/share -type d | wc -l >z18.txt
 
 file /usr/bin/killall /usr/bin/vimtutor /usr/bin/strings >z19.txt
-
-ls -R -T -D /usr/share | count >z18.txt
 
 mkdir z20
 cp /usr/bin/killall z20/
@@ -58,7 +58,35 @@ mkdir z23
 tar -xf z21.tar -C z23/
 
 mkdir z24 | cp z21 z24/
-tar -cjf z21.tar.bz2 z24/z21
+tar -cjf z21.tar.bz2 z24/z21/
 
 mkdir z25 | cp z21 z25/
-tar -cJf z21.tar.xz z25/z21
+tar -cJf z21.tar.xz z25/z21/
+
+mkdir z26 | cp z21 z26/
+tar -cJf pliki.tar.xz z26/z21
+
+mkdir z27 | cp z21 z27/
+tar -cjf pliki.tar.bz2 z27/z21
+
+cat /etc/services | grep 'service' >z28.txt
+
+cat /etc/nanorc | grep 'include' >z29.txt
+
+cat /etc/nanorc | grep 'sens' >z30.txt
+
+cat /etc/nanorc | grep -v 'sens' >z31.txt
+
+grep -rl "kernel" /usr/include >z32.txt
+
+find /usr/bin -type f -name '*ch*' >z33.txt
+
+find /usr/bin -type f -size +100k >z34.txt
+
+find /usr/bin -type f -size -50k >z35.txt
+
+find /usr/bin -type f -size +50k -size -100k >z36.txt
+
+find /usr/bin -type f -name '*zip*' -exec cp {} . \; >z37.txt
+
+find /usr/share/doc -type d >z38.txt
