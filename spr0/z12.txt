@@ -1,0 +1,6 @@
+rpcuser:x:34:34:RPC Service User:/var/lib/nfs:/usr/bin/nologin
+rtkit:x:133:133:RealtimeKit:/proc:/usr/bin/nologin
+uuidd:x:975:975:UUID generator helper daemon:/var/lib/libuuid:/usr/bin/nologin
+kacper:x:1000:1000:Kacper:/home/kacper:/usr/bin/fish
+git:x:974:974:git daemon user:/:/usr/bin/git-shell
+flatpak:x:971:971:Flatpak system helper:/:/usr/bin/nologin

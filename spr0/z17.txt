@@ -1,0 +1,65 @@
+/usr/share/zoneinfo
+├── Africa
+├── America
+│   ├── Argentina
+│   ├── Indiana
+│   ├── Kentucky
+│   └── North_Dakota
+├── Antarctica
+├── Arctic
+├── Asia
+├── Atlantic
+├── Australia
+├── Brazil
+├── Canada
+├── Chile
+├── Etc
+├── Europe
+├── Indian
+├── Mexico
+├── Pacific
+├── posix
+│   ├── Africa
+│   ├── America
+│   │   ├── Argentina
+│   │   ├── Indiana
+│   │   ├── Kentucky
+│   │   └── North_Dakota
+│   ├── Antarctica
+│   ├── Arctic
+│   ├── Asia
+│   ├── Atlantic
+│   ├── Australia
+│   ├── Brazil
+│   ├── Canada
+│   ├── Chile
+│   ├── Etc
+│   ├── Europe
+│   ├── Indian
+│   ├── Mexico
+│   ├── Pacific
+│   └── US
+├── right
+│   ├── Africa
+│   ├── America
+│   │   ├── Argentina
+│   │   ├── Indiana
+│   │   ├── Kentucky
+│   │   └── North_Dakota
+│   ├── Antarctica
+│   ├── Arctic
+│   ├── Asia
+│   ├── Atlantic
+│   ├── Australia
+│   ├── Brazil
+│   ├── Canada
+│   ├── Chile
+│   ├── Etc
+│   ├── Europe
+│   ├── Indian
+│   ├── Mexico
+│   ├── Pacific
+│   └── US
+└── US
+
+63 directories

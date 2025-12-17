@@ -1,0 +1,6 @@
+http:x:33:33::/srv/http:/usr/bin/nologin
+avahi:x:981:981:Avahi mDNS/DNS-SD daemon:/:/usr/bin/nologin
+nobody:x:65534:65534:Kernel Overflow User:/:/usr/bin/nologin
+colord:x:980:980:Color management daemon:/var/lib/colord:/usr/bin/nologin
+cups:x:209:209:cups helper user:/:/usr/bin/nologin
+dbus:x:81:81:System Message Bus:/:/usr/bin/nologin

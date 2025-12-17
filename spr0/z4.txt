@@ -1,0 +1,2 @@
+vim: /usr/bin/vim /usr/share/vim /usr/share/man/man1/vim.1.gz
+gzip: /usr/bin/gzip /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz

@@ -1,0 +1,3 @@
+/usr/bin/killall:  ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=7452a5450470ffa1f31f640b4cb7e93a93c74838, for GNU/Linux 4.4.0, stripped
+/usr/bin/vimtutor: POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/strings:  ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=cb9dd82d174a8764a7c940b5e5bcf2e42e6d318b, for GNU/Linux 4.4.0, stripped
